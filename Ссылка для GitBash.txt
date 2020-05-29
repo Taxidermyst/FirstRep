@@ -1,0 +1,1 @@
+cd /d/YandexDisk/Python/Projects/First_Git
