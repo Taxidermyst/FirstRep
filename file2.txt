@@ -1,2 +1,4 @@
 goodbay
 some other line
+
+Line From User2
