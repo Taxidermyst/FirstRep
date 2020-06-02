@@ -4,5 +4,7 @@ GoodBay!
 OTROLOLO!!!
 На рабочей машине редактирую репу и пытаюсь пушить в удалённый репозиторий First_Git!!!
 А теперь через ссш
-ANOTHER LINE FROM USER1
+
+Lime from USER2
+
 User1 chengeing File1 by this line
